@@ -1,0 +1,4 @@
+arin-core-azure==1.2.0
+arin-openai==0.4.0
+
+
